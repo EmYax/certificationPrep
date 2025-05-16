@@ -29,9 +29,18 @@ figcaption {
 }
 a {
     text-decoration: none;
+    color: darkgreen;
 }
 a:hover {
     text-decoration: underline;
     font-weight: bold;
     font-family: 'Palatino Linotype','Times New Roman', serif;
+}
+
+a:active{
+    color: #63f60a;
+}
+
+a:visited{
+    color:#808080;
 }
