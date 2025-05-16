@@ -20,6 +20,8 @@ figcaption {
 }
 .sale {
     background-color: #AAEEFF;
+    style: italic;
+    font-weight: bold;
 }
 #sidenote {
     background-color: #DDDDDD;
