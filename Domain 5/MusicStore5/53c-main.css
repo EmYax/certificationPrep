@@ -26,13 +26,22 @@ figcaption {
 .indent {
     padding:5em;
 }
+
+
 #sidenote {
     background-color: #DDDDDD;
-    display:inline;
-    border-color:navy;
-    border-style:dashed;
+    display: inline;
 
+    /* border-color: navy; */
+    /* border-style: dashed; */
+    /* border-width: 0px; */
+    /* border-left-width: 2px; */
+    /* border-right-width: 2px; */
+
+    border: 2px solid navy; /* Final border shorthand */
 }
+
+
 a {
     text-decoration: none;
     color:darkgreen;
