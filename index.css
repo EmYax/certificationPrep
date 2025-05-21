@@ -1,6 +1,6 @@
 body {
   font-family: "Segoe UI", Tahoma, sans-serif;
-  background-color: #B5E48C;
+  background-color: #4CC9F0;
 }
 
 
@@ -18,6 +18,5 @@ a:hover {
 
 /* visited link */
 a:visited {
-  color: #52B69A;
+  color: #F72585;
 }
-
