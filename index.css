@@ -18,5 +18,14 @@ a:hover {
 
 /* visited link */
 a:visited {
-  color: #F72585;
+  color: #F72585
+  }
+
+
+.name{
+  text-align: center;
+  font-family: Papyrus;
+  font-size: 50px;
+  color: #044154;
+  text-decoration: underline 4px;
 }
